@@ -1,0 +1,91 @@
+item_id,recipient_id,item_type,title,due_date,submitted_date,status,updated_at
+CC01-M1,CC01,milestone,Challenge validated,2026-02-13,2026-02-05,Accepted,2026-02-05 10:00:00
+CC01-M2,CC01,milestone,Prototype integrated at partner,2026-03-27,2026-03-23,Accepted,2026-03-23 10:00:00
+CC01-D1,CC01,deliverable,Pilot results,2026-05-02,2026-04-27,Accepted,2026-04-27 10:00:00
+CC01-R1,CC01,report,Mid-term report,2026-03-15,2026-03-11,Accepted,2026-03-11 10:00:00
+CC01-R2,CC01,report,Final report,2026-05-29,2026-06-22,Accepted,2026-06-22 10:00:00
+CC02-M1,CC02,milestone,Challenge validated,2026-03-03,2026-02-23,Accepted,2026-02-23 10:00:00
+CC02-M2,CC02,milestone,Prototype integrated at partner,2026-04-14,2026-04-13,Accepted,2026-04-13 10:00:00
+CC02-D1,CC02,deliverable,Pilot results,2026-05-20,2026-06-06,Accepted,2026-06-06 10:00:00
+CC02-R1,CC02,report,Mid-term report,2026-04-02,2026-04-25,Accepted,2026-04-25 10:00:00
+CC02-R2,CC02,report,Final report,2026-06-16,2026-07-03,Accepted,2026-07-03 10:00:00
+CC03-M1,CC03,milestone,Challenge validated,2026-04-01,2026-04-06,Accepted,2026-04-06 10:00:00
+CC03-M2,CC03,milestone,Prototype integrated at partner,2026-05-13,2026-05-24,Accepted,2026-05-24 10:00:00
+CC03-D1,CC03,deliverable,Pilot results,2026-06-18,2026-06-16,Accepted,2026-06-16 10:00:00
+CC03-R1,CC03,report,Mid-term report,2026-05-01,2026-05-11,Accepted,2026-05-11 10:00:00
+CC03-R2,CC03,report,Final report,2026-07-16,2026-07-10,Accepted,2026-07-10 10:00:00
+CC04-M1,CC04,milestone,Challenge validated,2026-05-01,2026-04-29,Accepted,2026-04-29 10:00:00
+CC04-M2,CC04,milestone,Prototype integrated at partner,2026-06-12,2026-06-09,Accepted,2026-06-09 10:00:00
+CC04-D1,CC04,deliverable,Pilot results,2026-07-18,2026-07-12,Accepted,2026-07-12 10:00:00
+CC04-R1,CC04,report,Mid-term report,2026-05-31,2026-05-27,Accepted,2026-05-27 10:00:00
+CC04-R2,CC04,report,Final report,2026-08-15,2026-08-10,Accepted,2026-08-10 10:00:00
+CC05-M1,CC05,milestone,Challenge validated,2026-06-03,2026-05-27,Accepted,2026-05-27 10:00:00
+CC05-M2,CC05,milestone,Prototype integrated at partner,2026-07-16,2026-07-21,Accepted,2026-07-21 10:00:00
+CC05-D1,CC05,deliverable,Pilot results,2026-08-21,2026-08-15,Accepted,2026-08-15 10:00:00
+CC05-R1,CC05,report,Mid-term report,2026-07-04,2026-07-01,Accepted,2026-07-01 10:00:00
+CC05-R2,CC05,report,Final report,2026-09-18,2026-09-26,Accepted,2026-09-26 10:00:00
+CC06-M1,CC06,milestone,Challenge validated,2026-07-01,2026-07-29,Accepted,2026-07-29 10:00:00
+CC06-M2,CC06,milestone,Prototype integrated at partner,2026-08-12,2026-08-03,Accepted,2026-08-03 10:00:00
+CC06-D1,CC06,deliverable,Pilot results,2026-09-17,,Cancelled,2026-09-17 10:00:00
+CC06-R1,CC06,report,Mid-term report,2026-07-31,2026-07-26,Accepted,2026-07-26 10:00:00
+CC06-R2,CC06,report,Final report,2026-10-15,,Cancelled,2026-10-15 10:00:00
+CC07-M1,CC07,milestone,Challenge validated,2026-07-31,2026-07-30,Accepted,2026-07-30 10:00:00
+CC07-M2,CC07,milestone,Prototype integrated at partner,2026-09-12,2026-10-21,Accepted,2026-10-21 10:00:00
+CC07-D1,CC07,deliverable,Pilot results,2026-10-18,2026-10-15,Accepted,2026-10-15 10:00:00
+CC07-R1,CC07,report,Mid-term report,2026-08-31,2026-08-23,Accepted,2026-08-23 10:00:00
+CC07-R2,CC07,report,Final report,2026-11-15,2026-11-07,Accepted,2026-11-07 10:00:00
+CC08-M1,CC08,milestone,Challenge validated,2026-09-02,2026-09-07,Accepted,2026-09-07 10:00:00
+CC08-M2,CC08,milestone,Prototype integrated at partner,2026-10-14,2026-11-20,Accepted,2026-11-20 10:00:00
+CC08-D1,CC08,deliverable,Pilot results,2026-11-19,2026-11-14,Accepted,2026-11-14 10:00:00
+CC08-R1,CC08,report,Mid-term report,2026-10-02,2026-09-22,Accepted,2026-09-22 10:00:00
+CC08-R2,CC08,report,Final report,2026-12-17,2026-12-14,Accepted,2026-12-14 10:00:00
+VIP01-M1,VIP01,milestone,Bootcamp delivered,2026-02-11,2026-02-21,Accepted,2026-02-21 10:00:00
+VIP01-D1,VIP01,deliverable,Curriculum delivered,2026-05-28,2026-05-25,Accepted,2026-05-25 10:00:00
+VIP01-R1,VIP01,report,Mid-term cost report,2026-06-12,2026-06-15,Accepted,2026-06-15 10:00:00
+VIP01-D2,VIP01,deliverable,Demo Day held,2026-09-26,2026-09-26,Accepted,2026-09-26 10:00:00
+VIP01-R2,VIP01,report,Final evaluation report,2026-11-26,2026-12-06,Accepted,2026-12-06 10:00:00
+VIP02-M1,VIP02,milestone,Bootcamp delivered,2026-03-04,2026-02-25,Accepted,2026-02-25 10:00:00
+VIP02-D1,VIP02,deliverable,Curriculum delivered,2026-06-17,2026-06-07,Accepted,2026-06-07 10:00:00
+VIP02-R1,VIP02,report,Mid-term cost report,2026-07-03,2026-08-13,Accepted,2026-08-13 10:00:00
+VIP02-D2,VIP02,deliverable,Demo Day held,2026-10-16,2026-10-08,Accepted,2026-10-08 10:00:00
+VIP02-R2,VIP02,report,Final evaluation report,2026-12-16,2026-12-08,Accepted,2026-12-08 10:00:00
+VIP03-M1,VIP03,milestone,Bootcamp delivered,2026-03-18,2026-03-16,Accepted,2026-03-16 10:00:00
+VIP03-D1,VIP03,deliverable,Curriculum delivered,2026-07-01,2026-06-26,Accepted,2026-06-26 10:00:00
+VIP03-R1,VIP03,report,Mid-term cost report,2026-07-17,2026-07-08,Accepted,2026-07-08 10:00:00
+VIP03-D2,VIP03,deliverable,Demo Day held,2026-10-30,2026-10-20,Accepted,2026-10-20 10:00:00
+VIP03-R2,VIP03,report,Final evaluation report,2026-12-30,,Overdue,2026-12-30 10:00:00
+VIP04-M1,VIP04,milestone,Bootcamp delivered,2026-04-01,2026-03-23,Accepted,2026-03-23 10:00:00
+VIP04-D1,VIP04,deliverable,Curriculum delivered,2026-07-17,2026-07-13,Accepted,2026-07-13 10:00:00
+VIP04-R1,VIP04,report,Mid-term cost report,2026-08-01,2026-08-02,Accepted,2026-08-02 10:00:00
+VIP04-D2,VIP04,deliverable,Demo Day held,2026-11-16,2026-11-12,Accepted,2026-11-12 10:00:00
+VIP04-R2,VIP04,report,Final evaluation report,2027-01-16,,Not due,2026-12-31 10:00:00
+VIP05-M1,VIP05,milestone,Bootcamp delivered,2026-04-15,2026-04-09,Accepted,2026-04-09 10:00:00
+VIP05-D1,VIP05,deliverable,Curriculum delivered,2026-07-31,2026-07-29,Accepted,2026-07-29 10:00:00
+VIP05-R1,VIP05,report,Mid-term cost report,2026-08-15,2026-09-03,Accepted,2026-09-03 10:00:00
+VIP05-D2,VIP05,deliverable,Demo Day held,2026-11-30,2026-11-27,Accepted,2026-11-27 10:00:00
+VIP05-R2,VIP05,report,Final evaluation report,2027-01-30,,Not due,2026-12-31 10:00:00
+VIP06-M1,VIP06,milestone,Bootcamp delivered,2026-05-01,2026-04-26,Accepted,2026-04-26 10:00:00
+VIP06-D1,VIP06,deliverable,Curriculum delivered,2026-08-16,2026-08-12,Accepted,2026-08-12 10:00:00
+VIP06-R1,VIP06,report,Mid-term cost report,2026-08-31,2026-09-06,Accepted,2026-09-06 10:00:00
+VIP06-D2,VIP06,deliverable,Demo Day held,2026-12-16,2026-12-11,Accepted,2026-12-11 10:00:00
+VIP06-R2,VIP06,report,Final evaluation report,2027-02-15,,Not due,2026-12-31 10:00:00
+UN01-M1,UN01,milestone,Kick-off and workplan,2026-04-23,2026-04-14,Accepted,2026-04-14 10:00:00
+UN01-M2,UN01,milestone,Solution prototype,2026-10-04,2026-11-10,Accepted,2026-11-10 10:00:00
+UN01-R1,UN01,report,Interim report,2026-10-31,2026-11-16,Accepted,2026-11-16 10:00:00
+UN01-M3,UN01,milestone,Pilot deployed,2027-03-16,,Not due,2026-12-31 10:00:00
+UN01-R2,UN01,report,Final report,2027-08-15,,Not due,2026-12-31 10:00:00
+UN02-M1,UN02,milestone,Kick-off and workplan,2026-05-23,2026-05-18,Accepted,2026-05-18 10:00:00
+UN02-M2,UN02,milestone,Solution prototype,2026-11-03,2026-12-04,Accepted,2026-12-04 10:00:00
+UN02-R1,UN02,report,Interim report,2026-12-01,,Overdue,2026-12-01 10:00:00
+UN02-M3,UN02,milestone,Pilot deployed,2027-04-17,,Not due,2026-12-31 10:00:00
+UN02-R2,UN02,report,Final report,2027-09-16,,Not due,2026-12-31 10:00:00
+UN03-M1,UN03,milestone,Kick-off and workplan,2026-06-22,2026-06-18,Accepted,2026-06-18 10:00:00
+UN03-M2,UN03,milestone,Solution prototype,2026-12-03,2026-11-28,Accepted,2026-11-28 10:00:00
+UN03-R1,UN03,report,Interim report,2026-12-30,2026-12-20,Accepted,2026-12-20 10:00:00
+UN03-M3,UN03,milestone,Pilot deployed,2027-05-16,,Not due,2026-12-31 10:00:00
+UN03-R2,UN03,report,Final report,2027-10-15,,Not due,2026-12-31 10:00:00
+UN04-M1,UN04,milestone,Kick-off and workplan,2026-07-25,2026-08-14,Accepted,2026-08-14 10:00:00
+UN04-M2,UN04,milestone,Solution prototype,2027-01-05,,Not due,2026-12-31 10:00:00
+UN04-R1,UN04,report,Interim report,2027-02-02,,Not due,2026-12-31 10:00:00
+UN04-M3,UN04,milestone,Pilot deployed,2027-06-19,,Not due,2026-12-31 10:00:00
+UN04-R2,UN04,report,Final report,2027-11-18,,Not due,2026-12-31 10:00:00

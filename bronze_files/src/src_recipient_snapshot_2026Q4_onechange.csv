@@ -1,0 +1,19 @@
+recipient_id,recipient_name,recipient_type,programme_id,status,equity_pct,hub,country,project_start,project_end,updated_at
+CC01,Aurelia Quantum,Start-up,COCREATE,Active,3.9,Budapest,HU,2026-01-15,2026-05-14,2026-11-03 06:00:00
+CC02,Nimbus Edge,Start-up,COCREATE,Graduated,4.0,Helsinki,FI,2026-02-02,2026-06-01,2026-06-02 06:00:00
+CC03,VoltaMesh,Start-up,COCREATE,Graduated,6.1,Berlin,DE,2026-03-02,2026-07-01,2026-08-10 06:00:00
+CC04,Cryptara,Start-up,COCREATE,Graduated,4.1,Lisbon,PT,2026-04-01,2026-07-31,2026-08-01 06:00:00
+CC05,Lumio Health,Start-up,COCREATE,Graduated,4.0,Budapest,HU,2026-05-04,2026-09-03,2026-09-04 06:00:00
+CC06,TerraSense,Start-up,COCREATE,Withdrawn,5.1,Helsinki,FI,2026-06-01,2026-09-30,2026-08-20 06:00:00
+CC07,Sentinel Mesh,Start-up,COCREATE,Graduated,5.0,Berlin,DE,2026-07-01,2026-10-31,2026-11-01 06:00:00
+CC08,Polaris Robotics,Start-up,COCREATE,Graduated,4.2,Lisbon,PT,2026-08-03,2026-12-02,2026-12-03 06:00:00
+VIP01,Nordic Incubator Hub,Delivery partner,VIP_PARTNER,Graduated,,Budapest,HU,2026-01-12,2026-11-11,2026-11-12 06:00:00
+VIP02,Mediterranean Venture Lab,Delivery partner,VIP_PARTNER,Graduated,,Helsinki,FI,2026-02-02,2026-12-01,2026-12-02 06:00:00
+VIP03,Danube Start Studio,Delivery partner,VIP_PARTNER,Graduated,,Berlin,DE,2026-02-16,2026-12-15,2026-12-16 06:00:00
+VIP04,Iberia Launchpad,Delivery partner,VIP_PARTNER,Active,,Lisbon,PT,2026-03-02,2027-01-01,2026-03-02 06:00:00
+VIP05,Baltic Builders,Delivery partner,VIP_PARTNER,Graduated,,Budapest,HU,2026-03-16,2027-01-15,2026-12-28 09:00:00
+VIP06,Alpine Scale Partners,Delivery partner,VIP_PARTNER,Active,,Helsinki,FI,2026-04-01,2027-01-31,2026-04-01 06:00:00
+UN01,UNITE Consortium Alpha,Consortium,UNITE,Active,,Lisbon,PT,2026-02-01,2027-07-31,2026-02-01 06:00:00
+UN02,UNITE Consortium Beta,Consortium,UNITE,Active,,Budapest,HU,2026-03-02,2027-09-01,2026-03-02 06:00:00
+UN03,UNITE Consortium Gamma,Consortium,UNITE,Active,,Helsinki,FI,2026-04-01,2027-09-30,2026-04-01 06:00:00
+UN04,UNITE Consortium Delta,Consortium,UNITE,Active,,Berlin,DE,2026-05-04,2027-11-03,2026-05-04 06:00:00
